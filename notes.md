@@ -62,9 +62,12 @@ $('div-name').preppend("<%= j (render @coyotes)'%>")
 just use bootstrap in the asses pipeline
 
 
-2 hours 
+2 hours
+<br>
 they will give us a skeleton
+<br>
 we will need to fill in controllers and views and migrations and models (know how to generate migrations and models at the same time)
+<br>
 Know nested resources. From seed file you should be able to generate your models and migrations
 To get rspec:
 add the gem to the gemfile 
